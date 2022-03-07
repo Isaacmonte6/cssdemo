@@ -1,0 +1,28 @@
+{
+    "tasks":[
+        {
+          "id":1,
+          "title":"Task 1",
+          "description":"Description for Task 1",
+          "location":"Valletta",
+          "date": "1st June 2022",
+          "time":"12:00"
+        },
+        {
+          "id":2,
+          "title": "Task 2",
+          "description":"Description for Task 2",
+          "location":"Birgu",
+          "date": "5th June 2022",
+          "time":"15:00"
+        },
+        {
+          "id":3,
+          "title": "Task 3",
+          "description":"Description for Task 3",
+          "location":"Sliema",
+          "date": "21st June 2022",
+          "time":"11:00"
+        }
+      ]
+}
