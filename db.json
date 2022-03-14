@@ -23,6 +23,22 @@
           "location":"Sliema",
           "date": "21st June 2022",
           "time":"11:00"
+        },
+{
+          "id":4,
+          "title": "Task 4",
+          "description":"Description for Task 4",
+          "location":"Gzire",
+          "date": "21st July 2022",
+          "time":"11:00"
+        },
+{
+          "id":5,
+          "title": "Task 5",
+          "description":"Description for Task 5",
+          "location":"Mosta",
+          "date": "10th April 2022",
+          "time":"16:00"
         }
       ]
 }
